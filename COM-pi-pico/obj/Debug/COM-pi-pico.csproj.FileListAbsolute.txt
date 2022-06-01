@@ -1,0 +1,9 @@
+C:\Users\Poma\source\repos\COM-pi-pico\COM-pi-pico\bin\Debug\COM-pi-pico.exe
+C:\Users\Poma\source\repos\COM-pi-pico\COM-pi-pico\bin\Debug\COM-pi-pico.pdb
+C:\Users\Poma\source\repos\COM-pi-pico\COM-pi-pico\obj\Debug\COM-pi-pico.csproj.AssemblyReference.cache
+C:\Users\Poma\source\repos\COM-pi-pico\COM-pi-pico\obj\Debug\COM_pi_pico.Form1.resources
+C:\Users\Poma\source\repos\COM-pi-pico\COM-pi-pico\obj\Debug\COM_pi_pico.Properties.Resources.resources
+C:\Users\Poma\source\repos\COM-pi-pico\COM-pi-pico\obj\Debug\COM-pi-pico.csproj.GenerateResource.cache
+C:\Users\Poma\source\repos\COM-pi-pico\COM-pi-pico\obj\Debug\COM-pi-pico.csproj.CoreCompileInputs.cache
+C:\Users\Poma\source\repos\COM-pi-pico\COM-pi-pico\obj\Debug\COM-pi-pico.exe
+C:\Users\Poma\source\repos\COM-pi-pico\COM-pi-pico\obj\Debug\COM-pi-pico.pdb

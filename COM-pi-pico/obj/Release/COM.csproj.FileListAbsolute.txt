@@ -1,0 +1,9 @@
+C:\Users\Poma\source\repos\COM-pi-pico\COM-pi-pico\bin\Release\COM.exe
+C:\Users\Poma\source\repos\COM-pi-pico\COM-pi-pico\bin\Release\COM.pdb
+C:\Users\Poma\source\repos\COM-pi-pico\COM-pi-pico\obj\Release\COM_pi_pico.COM.resources
+C:\Users\Poma\source\repos\COM-pi-pico\COM-pi-pico\obj\Release\COM.Properties.Resources.resources
+C:\Users\Poma\source\repos\COM-pi-pico\COM-pi-pico\obj\Release\COM.csproj.GenerateResource.cache
+C:\Users\Poma\source\repos\COM-pi-pico\COM-pi-pico\obj\Release\COM.csproj.CoreCompileInputs.cache
+C:\Users\Poma\source\repos\COM-pi-pico\COM-pi-pico\obj\Release\COM.exe
+C:\Users\Poma\source\repos\COM-pi-pico\COM-pi-pico\obj\Release\COM.pdb
+C:\Users\Poma\source\repos\COM-pi-pico\COM-pi-pico\bin\Release\putty.exe
